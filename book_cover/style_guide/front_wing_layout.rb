@@ -1,0 +1,3 @@
+RLayout::RColumn.new(width:354.33075, height:532.913448, top_inset: 5, left_inset: 5, right_inset: 10, body_line_height: 16) do
+end
+

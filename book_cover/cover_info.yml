@@ -1,0 +1,19 @@
+---
+
+width: 125mm
+height: 188mm
+seneca_width: 10mm
+wing_width: 100mm
+binding_margin: 3mm
+bleed_margin: 3mm
+gripper_margin: 10mm
+left_margin: 20mm
+top_margin: 14mm
+right_margin: 20mm
+bottom_margin: 25mm
+body_line_count: 23
+toc_page_count: 2
+title: 2022년에 책만들기
+subtitle: 새로운 솔류션을 이용하자
+author: 김민수
+
